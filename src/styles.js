@@ -1,12 +1,11 @@
 const baseStyle = {
-  height: '50px',
-  width: '240px',
+  height: '30px',
   border: 'none',
   textAlign: 'center',
   verticalAlign: 'center',
   boxShadow: '0 2px 4px 0 rgba(0,0,0,.25)',
-  fontSize: '16px',
-  lineHeight: '48px',
+  fontSize: '14px',
+  lineHeight: '28px',
   display: 'block',
   borderRadius: '1px',
   transition: 'background-color .218s, border-color .218s, box-shadow .218s',
@@ -28,8 +27,8 @@ export const lightStyle = {
 }
 
 export const iconStyle = {
-  width: '48px',
-  height: '48px',
+  width: '28px',
+  height: '28px',
   textAlign: 'center',
   verticalAlign: 'center',
   display: 'block',
@@ -42,8 +41,8 @@ export const iconStyle = {
 }
 
 export const svgStyle = {
-  width: '48px',
-  height: '48px',
+  width: '28px',
+  height: '28px',
   display: 'block'
 }
 

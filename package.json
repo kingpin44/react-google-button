@@ -22,7 +22,8 @@
     "watch:umd": "npm run build:umd -- --progress --colors --watch",
     "watch:lib": "npm run build:lib -- --watch",
     "watch:es": "npm run build:es -- --watch",
-    "watch": "npm run watch:es"
+    "watch": "npm run watch:es",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
